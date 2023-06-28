@@ -1,5 +1,4 @@
-# ArchiveCreator.py
-
+# ArchiveCreator
 ArchiveCreator is a Python script that automates the creation of multiple archives in different formats.
 
 ## Features
